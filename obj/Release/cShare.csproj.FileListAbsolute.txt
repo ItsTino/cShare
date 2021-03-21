@@ -1,0 +1,13 @@
+H:\VSProjects\cShare\bin\Release\cShare.exe.config
+H:\VSProjects\cShare\bin\Release\cShare.exe
+H:\VSProjects\cShare\bin\Release\cShare.pdb
+H:\VSProjects\cShare\obj\Release\cShare.csprojAssemblyReference.cache
+H:\VSProjects\cShare\obj\Release\cShare.frmLauncher.resources
+H:\VSProjects\cShare\obj\Release\cShare.frmSelect.resources
+H:\VSProjects\cShare\obj\Release\cShare.frmSettings.resources
+H:\VSProjects\cShare\obj\Release\cShare.frmShare.resources
+H:\VSProjects\cShare\obj\Release\cShare.Properties.Resources.resources
+H:\VSProjects\cShare\obj\Release\cShare.csproj.GenerateResource.cache
+H:\VSProjects\cShare\obj\Release\cShare.csproj.CoreCompileInputs.cache
+H:\VSProjects\cShare\obj\Release\cShare.exe
+H:\VSProjects\cShare\obj\Release\cShare.pdb
